@@ -1,6 +1,18 @@
-# Jean Miranda | De mecânico industrial a dev full stack
-**📍 Curitiba/PR • Eng. Software (Uninter) + ADS (Unicesumar)**  
-**⚡ Transição: chave inglesa → código Python**
+# 👋 Olá, eu sou o Jean 
+🚀 Estudante de **Engenharia de Software (Uninter)** e **Análise e Desenvolvimento de Sistemas (Unicesumar)**  
+💻 Apaixonado por tecnologia, programação e resolução de problemas  
+🔧 Atualmente trabalho como **Auxiliar de Manutenção na Kepler Weber**  
+
+---
+## 📈 Objetivos  
+- Consolidar minha carreira como desenvolvedor de software  
+- Criar projetos de impacto, com foco em **eficiência e qualidade técnica**  
+- Continuar aprendendo e evoluindo para me tornar referência na área  
+---
+
+## 🌐 Onde me encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jeanland/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jeanmiranda1255@gmail.com) 
 
 ---
 
