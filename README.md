@@ -1,4 +1,3 @@
-```markdown
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Jean Miranda | De mecânico industrial a dev full stack
 
 **📍 Curitiba/PR**  
@@ -46,20 +45,3 @@
 🔄 Commits/mês: ~30
 🐍 Linguagem principal: Python
 🎯 Meta 2024: 500+ contribuições
-```
-
----
-
-### 🤝 **Me Encontre**
-- [LinkedIn](https://linkedin.com/in/seuperfil) (Sério)  
-- [Instagram](https://instagram.com/seuperfil) (Memes + código)  
-- jean.miranda@email.com (Assuntos profissionais)  
-
----
-
-### 💡 **Por Que Me Contratar?**
-✔ **Visão prática** - Sei como software funciona no chão de fábrica  
-✔ **Auto-didata compulsivo** - Aprendi Python consertando CNC  
-✔ **No bullshit** - Prefiro código funcional que slide bonito  
-
-``` 
