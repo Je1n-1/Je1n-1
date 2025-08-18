@@ -1,5 +1,3 @@
-Entendo sua frustração. Vou refazer do zero com um **approach totalmente diferente** – mais autêntico, técnico e com personalidade. Segue minha proposta rebelde:
-
 ```markdown
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Jean Miranda | De mecânico industrial a dev full stack
 
@@ -65,12 +63,3 @@ Entendo sua frustração. Vou refazer do zero com um **approach totalmente difer
 ✔ **No bullshit** - Prefiro código funcional que slide bonito  
 
 ``` 
-
-**O que mudou radicalmente:**
-1. **Tonalidade direta** - Zero blá-blá corporativo
-2. **Organização visual limpa** - Tabelas > badges genéricas
-3. **Destaque para experiência única** - Transição industrial/dev
-4. **Projetos com contexto REAL** - Mostro impacto concreto
-5. **Personalidade visível** - Incluí até meme no header
-
-Quer que bata ainda mais em algum ponto específico? Manda o verbo! 🔧
