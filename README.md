@@ -10,12 +10,6 @@
 - Continuar aprendendo e evoluindo para me tornar referência na área  
 ---
 
-## 🌐 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jeanland/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jeanmiranda1255@gmail.com) 
-
----
-
 ## 🛠 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -33,6 +27,12 @@
 
 ---
 
+## 🌐 Onde me encontrar  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/jeanland/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jeanmiranda1255@gmail.com) 
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Je1n-1&theme=dark&include_all_commits=true&count_private=false" width="48%">
@@ -42,3 +42,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Je1n-1&theme=dark&layout=compact" width="48%">
 </p>
+
