@@ -31,6 +31,7 @@ Minha missão: **criar sistemas robustos, eficientes e elegantes**, unindo lógi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -38,17 +39,28 @@ Minha missão: **criar sistemas robustos, eficientes e elegantes**, unindo lógi
 
 ## 🌟 Experiência
 
-- **Auxiliar de manutenção industrial** – Kepler Weber  
-- **Projetos acadêmicos e pessoais**: sistemas web, automação, APIs e aplicações full stack  
-- **Contribuições em GitHub**: repositórios próprios e colaboração em projetos open source  
+- **Auxiliar de manutenção industrial** – Kepler Weber (2021-presente)  
+- **Projetos acadêmicos**: Desenvolvimento de sistemas web, APIs RESTful e aplicações full stack
+- **Projetos pessoais**: Automações com Python, ferramentas de produtividade
+- **Open Source**: Contribuições em projetos da comunidade
+
+---
+
+## 🚀 Projetos Destacados
+
+- [Sistema de Gestão Industrial](https://github.com/Je1n-1/gestao-industrial) - Flask + MySQL
+- [Automação de Relatórios](https://github.com/Je1n-1/automacao-relatorios) - Python + Pandas
+- [Portfólio Pessoal](https://github.com/Je1n-1/portfolio) - HTML/CSS/JS
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je1n-1&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Je1n-1&theme=dark&layout=compact)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Je1n-1&theme=dark&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Je1n-1&theme=dark&layout=compact&hide_border=true)
+
 </div>
 
 ---
@@ -57,13 +69,16 @@ Minha missão: **criar sistemas robustos, eficientes e elegantes**, unindo lógi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanland/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeanmiranda1255@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Je1n-1)
 
 </div>
 
 ---
 
 <div align="center">
-**“Aprender. Criar. Evoluir.”**
+  
+⭐️ De [Je1n-1](https://github.com/Je1n-1)
+
 </div>
