@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Jean 
-🚀 Estudante de **Engenharia de Software (Uninter)** e **Análise e Desenvolvimento de Sistemas (Unicesumar)**  
+🚀 Estudante de **Engenharia da computação(Uninter)** e **Análise e Desenvolvimento de Sistemas (Unicesumar)**  
 💻 Apaixonado por tecnologia, programação e resolução de problemas  
 🔧 Atualmente trabalho como **Auxiliar de Manutenção na Kepler Weber**  
 
